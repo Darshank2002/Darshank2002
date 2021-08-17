@@ -37,7 +37,7 @@
 
 ✔ I’m currently Developing **TheEngineeringSphere** a platform for Engineers<br>
 ✔ I’m currently learning **MERN Stack**<br>
-✔ I’m looking forward for learning more about **Space Tech applications of softeare development**<br>
+✔ I’m looking forward for learning more about **Space Tech**<br>
 
  
 ## 🛠 &nbsp;Tech Stack
