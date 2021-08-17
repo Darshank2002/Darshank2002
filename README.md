@@ -35,7 +35,6 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔ I’m currently Developing **TheEngineeringSphere** a platform for Engineers<br>
 ✔ I’m currently learning **MERN Stack**<br>
 ✔ I’m looking forward for learning more about **Space Tech applications of softeare development**<br>
