@@ -63,7 +63,7 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) --> -->
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) --> 
 <!-- - 📱 &nbsp;
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
