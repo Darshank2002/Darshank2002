@@ -15,7 +15,7 @@
 OS Development | Embedded Programming | Open Source
 
 
-|<img src="https://github-readme-stats.vercel.app/api?username=Darshank2002&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshank2002"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=Darshank2002&show_icons=true&theme=tokyonight"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshank2002"/>
 
 
 
