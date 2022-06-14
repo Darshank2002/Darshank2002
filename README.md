@@ -7,7 +7,7 @@
 <hr>
 
 
-<h3 align="center">Full Stack Web Developer | Machine Learning | Space tech Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | Space tech Enthusiast</h3>
 
 👨‍🎓I'm Third Year Computer Engineering undergrad, currently studying in D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
 💻I am a **Full-Stack Web Developer**.<br />
