@@ -11,6 +11,7 @@
 
 👨‍🎓I'm Third Year Computer Engineering undergrad, currently studying in D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
 💻I am a **Full-Stack Web Developer**.<br />
+💼Worked as a **React Development Intern** at PIllarPlus Pvt.Ltd.
 🎯**I'm looking forward to explore in 2022:**
 OS Development | Embedded Programming | Open Source
 
