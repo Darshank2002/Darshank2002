@@ -13,8 +13,8 @@
 💻I am a **Full-Stack Web Developer**.<br />
 💼Worked as a **React Development Intern** at PIllarPlus Pvt.Ltd.<br />
 🧠Vice Captain at @[draicdypcoe](https://github.com/draicdypcoe) <br/>
-🎯**I'm looking forward to explore in 2022:**
-OS Development | Embedded Programming | Open Source
+🎯**I'm currently exploring:**
+OS Development | Linux | RTOS |Open Source
 
 
 |<img src="https://github-readme-stats.vercel.app/api?username=Darshank2002&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshank2002"/>|
