@@ -7,7 +7,7 @@
 <hr>
 
 
-<h3 align="center">Full Stack Web Developer | Space tech Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | Space Tech Enthusiast</h3>
 
 👨‍🎓I'm Third Year Computer Engineering undergrad, currently studying in D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
 💻I am a **Full-Stack Web Developer**.<br />
@@ -41,5 +41,6 @@ OS Development | Linux | RTOS |Open Source
 <a href="https://instagram.com/darshan.kadam15" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%238a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+
 </div>
 
