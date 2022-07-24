@@ -9,7 +9,7 @@
 
 <h3 align="center">Full Stack Web Developer | Space Tech Enthusiast</h3>
 
-👨‍🎓I'm Third Year Computer Engineering undergrad, currently studying in D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
+👨‍🎓I'm Final Year Computer Engineering undergrad, currently studying in D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
 💻I am a **Full-Stack Web Developer**.<br />
 💼Worked as a **React Development Intern** at PIllarPlus Pvt.Ltd.<br />
 🧠Vice Captain at @[draicdypcoe](https://github.com/draicdypcoe) <br/>
