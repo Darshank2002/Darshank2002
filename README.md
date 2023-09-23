@@ -13,11 +13,6 @@
 👨‍🎓Completed bachelors in Computer Engineering in D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
 💻I am a **Full-Stack Web Developer**.<br />
 
-🧠Vice Captain at @[draicdypcoe](https://github.com/draicdypcoe) <br/>
-🎯**I'm currently exploring:**
-OS Development | Linux | RTOS |Open Source
-
-
 |<img src="https://github-readme-stats.vercel.app/api?username=Darshank2002&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshank2002"/>|
 |---|---|
 
