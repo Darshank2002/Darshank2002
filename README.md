@@ -9,9 +9,10 @@
 
 <h3 align="center">Full Stack Web Developer | Space Tech Enthusiast</h3>
 
-👨‍🎓I'm Final Year Computer Engineering undergrad, currently studying in D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
+💼Currently working as Assoicate Software Enginner at <b>Cornerstone Ondemand</b><br />
+👨‍🎓Completed bachelors in Computer Engineering in D.Y. Patil College Of Engineering, Akurdi, Pune.<br />
 💻I am a **Full-Stack Web Developer**.<br />
-💼Worked as a **React Development Intern** at PIllarPlus Pvt.Ltd.<br />
+
 🧠Vice Captain at @[draicdypcoe](https://github.com/draicdypcoe) <br/>
 🎯**I'm currently exploring:**
 OS Development | Linux | RTOS |Open Source
